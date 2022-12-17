@@ -1,0 +1,13 @@
+Objektorienteerituse head ning tulkid kuljed
+
+Head kuljed.
+Encapsulation. Turvaline, kuna koodi juppe ei pea ise nagema, selleks, et neid kasutada. Samuti vaiksem voimalus on, et kood laheb katki, selle tottu, kui piirvaartused on ette antud.
+Klasse saab koppeerida, taaskasutada teistes programmides.
+Klasse saab samal ajal muuta, nii et ulejaanud kood ei lahe katki. Hea grupis koodi kirjutada. Igauks votab uhe funktsiooni voi klassi, mida teha naiteks.
+OOP loob puhta strutuuri programmi jaoks. Vahem vigu tekib selle tottu, kui kood laheb pikemaks.
+Koodi raamatukogud on olemas, mille koodi saab lihtsalt ara kasutada, vaikeseid muudatusi tehes. Graafilise liidese jaoks on see eriti kasulik.
+
+
+Tulgid kuljed.
+Hasti palju peab algus oppima, et oskaks natukenegi teha objektorienteeritud keelega. Naiteks teha programm, mis kusib kasutajalt kolmnurga kulgede suurused, et arvutada kolmnurga pindala ja valja trukkida vastus votab kordades kauem aega oppida, kuidas kirjutada, kui funktsionaalses keeles.
+Rohkem koodi peab kirjutama vaikeste asjade tegemiseks.

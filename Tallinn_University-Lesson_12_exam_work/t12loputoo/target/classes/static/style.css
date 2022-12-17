@@ -1,0 +1,21 @@
+button {
+    background-color: #444444;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    padding: 8px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px 5px 10px;
+    cursor: pointer;
+}
+body {
+    font-family: "Segoe UI", "Lucida Grande", Tahoma, sans-serif;
+    font-size: 100%;
+    color: white;
+    background-image: url("math2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

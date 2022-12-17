@@ -1,0 +1,5 @@
+Omaloodud klass
+
+Luuakse klass väljadega andmete hoidmiseks ning meetoditega nende põhjal tulemuste arvutamiseks.
+Luuakse näitprogrammid klassist eksemplaride (NB mitme eksemplari) loomiseks ning nende käest 
+vastavalt konstruktoris sisestatud andmetele vastuste leidmiseks. 
