@@ -8,6 +8,5 @@ public class Lahendus1{
 	}
 	public static void main(String[] args){
 		trykiA();
-		trykiA();
 	}
 }
