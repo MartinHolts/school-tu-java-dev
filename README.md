@@ -1,4 +1,5 @@
-# TU-java-development
-This repository contains school work for Tallinn University's course named an introductory course in programming.
+# TU-Java-Development
 
-Functions and comments in the code are in Estonian, because study in Tallinn University was in Estonian.
+School assignments from Tallinn University's introductory programming course.
+
+The functions and comments in the code are written in Estonian, as the studies at Tallinn University were conducted in Estonian.
